@@ -327,12 +327,12 @@ function DriveClone() {
                 key={file._id}
                 name={file.name}
                 type={file.type}
-                size={formatBytes(file.size)}
+size={formatBytes(file.size)}
               />
             ))}
 
-            {/* Empty state */}
-            {totalItems === 0 && userId && (
+            {/* Empty state - only show when data has loaded AND is empty */}
+            {folders !== undefined && files !== undefined && totalItems === 0 && userId && (
               <div className="col-span-full flex flex-col items-center justify-center py-16 text-gray-500">
                 <FolderOpen className="w-16 h-16 mb-4 text-gray-300" />
                 <p className="text-lg font-medium">This folder is empty</p>
@@ -433,32 +433,40 @@ function NavItem({
   )
 }
 
-function FolderCard({ name, onClick }: { name: string; onClick: () => void }) {
+function FolderCard({
+  name,
+  onClick,
+}: {
+  name: string
+  onClick: () => void
+}) {
   return (
     <div
       onClick={onClick}
-      className="border border-gray-200 rounded-xl p-4 hover:bg-gray-50 cursor-pointer transition-colors hover:border-blue-300 hover:shadow-sm"
+      className="flex flex-col items-center justify-center p-4 border border-gray-200 rounded-lg cursor-pointer hover:bg-gray-50 transition-colors"
     >
-      <div className="flex flex-col items-center">
-        <div className="mb-3">
-          {getFileIcon('folder')}
-        </div>
-        <span className="text-sm text-gray-800 text-center truncate w-full">{name}</span>
-      </div>
+      <FolderOpen className="w-12 h-12 text-blue-500 mb-2" />
+      <p className="text-sm font-medium text-gray-700 text-center line-clamp-2">{name}</p>
     </div>
   )
 }
 
-function FileCard({ name, type, size }: { name: string; type: FileType; size?: string }) {
+function FileCard({
+  name,
+  type,
+  size,
+}: {
+  name: string
+  type: FileType
+  size: string
+}) {
   return (
-    <div className="border border-gray-200 rounded-xl p-4 hover:bg-gray-50 cursor-default transition-colors">
-      <div className="flex flex-col items-center">
-        <div className="mb-3">
-          {getFileIcon(type)}
-        </div>
-        <span className="text-sm text-gray-800 text-center truncate w-full">{name}</span>
-        {size && <span className="text-xs text-gray-500 mt-1">{size}</span>}
-      </div>
+    <div className="flex flex-col items-center justify-center p-4 border border-gray-200 rounded-lg">
+      {getFileIcon(type)}
+      <p className="text-sm font-medium text-gray-700 text-center line-clamp-2 mt-2">
+        {name}
+      </p>
+      <p className="text-xs text-gray-500 mt-1">{size}</p>
     </div>
   )
 }
