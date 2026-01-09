@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Rework layout so sidebar and header are always fixed and the rest of the content scrolls vertically",
+  "title": "Fix sidebar and header positioning for scrollable content",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "high",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767964854419-0k7s524os",
+  "startedAt": "2026-01-09T13:20:55.666Z",
+  "updatedAt": "2026-01-09T13:24:40.462Z",
+  "justFinishedAt": "2026-01-09T13:24:40.462Z"
+}

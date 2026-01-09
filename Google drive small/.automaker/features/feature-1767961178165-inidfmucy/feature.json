@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Make the plus button appear visually the same as the Upload button, then make the plus button show a dropdown on click and that display the upload and folder buttons in the dropdown. Make sure the dropdown items have enough spacing for easy clicks into it.",
+  "title": "Add dropdown menu to plus button with upload and folder options",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961178165-inidfmucy",
+  "startedAt": "2026-01-09T12:19:39.036Z",
+  "updatedAt": "2026-01-09T12:22:37.303Z",
+  "justFinishedAt": "2026-01-09T12:22:37.303Z"
+}

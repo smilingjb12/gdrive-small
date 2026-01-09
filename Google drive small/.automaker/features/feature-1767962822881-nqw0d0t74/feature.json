@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Add ability to rename files/folders via the triple dot dropdown menu item",
+  "title": "Add file and folder rename option in context menu",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767962822881-nqw0d0t74",
+  "startedAt": "2026-01-09T12:47:10.130Z",
+  "updatedAt": "2026-01-09T12:58:47.811Z",
+  "justFinishedAt": "2026-01-09T12:58:47.811Z"
+}

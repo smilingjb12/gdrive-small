@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Make it so the 'New' button in the sidebar is displayed when Trash route is active. Right now the new button is not visible there, but is visible on My Drive route, for example",
+  "title": "Add New button visibility to Trash route",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767964168921-0bw61krej",
+  "startedAt": "2026-01-09T13:13:34.333Z",
+  "updatedAt": "2026-01-09T13:17:04.032Z",
+  "justFinishedAt": "2026-01-09T13:17:04.032Z"
+}

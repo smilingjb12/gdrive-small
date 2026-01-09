@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "For image grid view items make sure the text is in the middle of item (same as it is for regular files) and the badge with file type is in the bottom right. When clicking on three dot menu in the image grid item, the 'Image' badge on the item has higher z-index than the dropdown items, fix that.",
+  "title": "Fix image grid item badge z-index and text alignment",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "high",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767964411482-1q1mk4o3n",
+  "startedAt": "2026-01-09T13:13:35.256Z",
+  "updatedAt": "2026-01-09T13:17:31.270Z",
+  "justFinishedAt": "2026-01-09T13:17:31.270Z"
+}

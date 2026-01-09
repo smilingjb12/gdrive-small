@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "In the 'New' dropdown rename 'New folder' to 'Folder'",
+  "title": "Rename 'New folder' to 'Folder' in dropdown",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961424111-hvgi8i5v3",
+  "startedAt": "2026-01-09T12:23:44.299Z",
+  "updatedAt": "2026-01-09T12:24:33.325Z",
+  "justFinishedAt": "2026-01-09T12:24:33.325Z"
+}

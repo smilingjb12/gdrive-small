@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Make the file/folder name appear in a single line. If there is not enough space then ellipsis cut it off",
+  "title": "Add single-line truncation for file names",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767958383668-fdtbkajr2",
+  "startedAt": "2026-01-09T11:33:04.273Z",
+  "updatedAt": "2026-01-09T11:36:16.348Z",
+  "justFinishedAt": "2026-01-09T11:36:16.348Z"
+}

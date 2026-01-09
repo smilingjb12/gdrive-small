@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When navigating from root folder to any other folder there's a visible shift of the header text like it gets extra padding. Fix",
+  "title": "Fix header text shift when navigating folders",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "high",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767962874540-hgb6efmjn",
+  "startedAt": "2026-01-09T12:48:01.072Z",
+  "updatedAt": "2026-01-09T12:49:24.354Z",
+  "justFinishedAt": "2026-01-09T12:49:24.354Z"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When searching in the header add a debounce so if somebody types quickly then search is only performed AMOUNT of milliseconds after the user stops typing.",
+  "title": "Add search debounce to header input",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961576354-sez1z5uhs",
+  "startedAt": "2026-01-09T12:27:25.816Z",
+  "updatedAt": "2026-01-09T12:30:14.374Z",
+  "justFinishedAt": "2026-01-09T12:30:14.374Z"
+}

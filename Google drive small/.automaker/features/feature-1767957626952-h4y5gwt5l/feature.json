@@ -1,0 +1,21 @@
+{
+  "category": "Uncategorized",
+  "description": "File upload fails. Fix",
+  "title": "Fix file upload failures",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": false,
+  "model": "opus",
+  "thinkingLevel": "high",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767957626952-h4y5gwt5l",
+  "startedAt": "2026-01-09T11:20:27.684Z",
+  "updatedAt": "2026-01-09T11:28:13.085Z"
+}

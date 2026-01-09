@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "For each item (folder or file) on hover we should show a triple dot button that on click shows a dropdown. For folder it should have a Delete item, for file it should have Delete and Download actions. If delete is not implemented for file yet, then implement it.",
+  "title": "Add context menu on hover for files and folders",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961912197-9fw6v9j2b",
+  "startedAt": "2026-01-09T12:31:53.068Z",
+  "updatedAt": "2026-01-09T12:37:16.469Z",
+  "justFinishedAt": "2026-01-09T12:37:16.469Z"
+}

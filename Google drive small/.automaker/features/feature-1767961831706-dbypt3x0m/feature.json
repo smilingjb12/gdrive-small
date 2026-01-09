@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Implement grid view/list view switching. The UI elements is already there, but it doesn't work yet. List view should display items in a more compact way.",
+  "title": "Implement grid/list view toggle functionality",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961831706-dbypt3x0m",
+  "startedAt": "2026-01-09T12:30:45.818Z",
+  "updatedAt": "2026-01-09T12:35:25.941Z",
+  "justFinishedAt": "2026-01-09T12:35:25.941Z"
+}

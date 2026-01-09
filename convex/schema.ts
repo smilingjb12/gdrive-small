@@ -42,7 +42,7 @@ export default defineSchema({
     ),
     mimeType: v.string(),
     size: v.number(), // in bytes
-    storageId: v.optional(v.string()), // Convex storage ID
+    storageId: v.optional(v.id('_storage')), // Convex storage ID
     folderId: v.optional(v.id('folders')), // null for root level files
     ownerId: v.id('users'),
     isStarred: v.boolean(),

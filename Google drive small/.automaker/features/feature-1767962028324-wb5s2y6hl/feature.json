@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Implement the 'Storage' nav item route. On click it should show the bar charts of the current storage distribution (how much is used out of how much is available) by file type. Then below it, it should show a grid with all the files displayed in a list view sorted by size descending. The size should also be displayed on the right side of that list. The file name along with icon are displayed on the left.",
+  "title": "Implement Storage Analytics with File List View",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "high",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767962028324-wb5s2y6hl",
+  "startedAt": "2026-01-09T12:33:54.199Z",
+  "updatedAt": "2026-01-09T12:38:22.362Z",
+  "justFinishedAt": "2026-01-09T12:38:22.362Z"
+}

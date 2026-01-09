@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When displaying image previews make it so the image covers the entire file panel with its content so the image badge and three dot menu button are overlayed on top of it.",
+  "title": "Add full-coverage image preview overlay",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767963997548-pbfn1z0a4",
+  "startedAt": "2026-01-09T13:06:39.715Z",
+  "updatedAt": "2026-01-09T13:11:53.266Z",
+  "justFinishedAt": "2026-01-09T13:11:53.266Z"
+}

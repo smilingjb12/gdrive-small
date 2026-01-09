@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Make the 'New' button in top left appear visually the same as the 'Upload' button. Then on click on 'New' button it should show a dropdown menu with Upload and Folder items in it. Then remove the Upload and Folder buttons from UI since they are now hidden in the dropdown.",
+  "title": "Add dropdown menu to New button replacing separate Upload button",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767958271354-rzhuw6uda",
+  "startedAt": "2026-01-09T12:02:52.448Z",
+  "updatedAt": "2026-01-09T12:07:03.738Z",
+  "justFinishedAt": "2026-01-09T12:07:03.738Z"
+}

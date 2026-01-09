@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "In grid view display the thumbnail of the image instead of its icon.",
+  "title": "Display image thumbnails in grid view",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "high",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767963394639-nmuxts8u2",
+  "startedAt": "2026-01-09T12:57:06.829Z",
+  "updatedAt": "2026-01-09T13:01:31.373Z",
+  "justFinishedAt": "2026-01-09T13:01:31.373Z"
+}

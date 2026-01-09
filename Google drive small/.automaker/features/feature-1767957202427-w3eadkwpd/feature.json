@@ -1,0 +1,21 @@
+{
+  "category": "Uncategorized",
+  "description": "Add ability to upload various file types by clicking on 'Upload' button. Display them on UI with correct icons. Add an ability to download a file as well.",
+  "title": "Add file upload with icons and download functionality",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "priority": 1,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767957202427-w3eadkwpd",
+  "startedAt": "2026-01-09T11:13:23.632Z",
+  "updatedAt": "2026-01-09T11:19:31.193Z",
+  "justFinishedAt": "2026-01-09T11:19:31.193Z"
+}

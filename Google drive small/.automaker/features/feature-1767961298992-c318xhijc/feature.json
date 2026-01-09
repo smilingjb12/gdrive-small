@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Make the label of folder or file be displayed in a single line. If there is not enough horizontal space then cut if off with ellipsis",
+  "title": "Add single-line label truncation with ellipsis",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961298992-c318xhijc",
+  "startedAt": "2026-01-09T12:21:39.088Z",
+  "updatedAt": "2026-01-09T12:24:31.594Z",
+  "justFinishedAt": "2026-01-09T12:24:31.594Z"
+}

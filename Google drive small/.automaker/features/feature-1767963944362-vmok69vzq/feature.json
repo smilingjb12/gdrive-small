@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Use shadcn context menu to display context menu when right clicking on My Drive route that will display same items as the 'new' button in top left.",
+  "title": "Add context menu for My Drive right-click actions",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767963944362-vmok69vzq",
+  "startedAt": "2026-01-09T13:05:45.260Z",
+  "updatedAt": "2026-01-09T13:11:20.180Z",
+  "justFinishedAt": "2026-01-09T13:11:20.180Z"
+}

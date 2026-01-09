@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When invoking a create new file/create new folder action from the 'new' button in the sidebar, make sure the user is redirected to My Drive page when the upload is complete.",
+  "title": "Add redirect to My Drive after creating files or folders",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767964119358-tzna7v70n",
+  "startedAt": "2026-01-09T13:08:40.402Z",
+  "updatedAt": "2026-01-09T13:13:39.875Z",
+  "justFinishedAt": "2026-01-09T13:13:39.875Z"
+}

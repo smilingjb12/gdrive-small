@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "In 'New' dropdown increase the spacing for Upload and Folder items so they are easier to click on",
+  "title": "Add larger click targets for Upload and Folder options",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767960499291-wbllnm7kb",
+  "startedAt": "2026-01-09T12:08:20.252Z",
+  "updatedAt": "2026-01-09T12:10:48.386Z",
+  "justFinishedAt": "2026-01-09T12:10:48.386Z"
+}

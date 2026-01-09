@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Remove the info icon from UI and move the 'My drive' label to the same row as the grid/list switcher to save some vertical space",
+  "title": "Remove info icon and consolidate header layout",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961238749-9dlgqtuuf",
+  "startedAt": "2026-01-09T12:20:39.558Z",
+  "updatedAt": "2026-01-09T12:23:03.075Z",
+  "justFinishedAt": "2026-01-09T12:23:03.075Z"
+}

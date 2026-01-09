@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When navigating from My Drive to Storage there's a visible spacing shift in the page title. Make sure Storage uses the same styles as the My Drive page",
+  "title": "Fix page title spacing inconsistency between My Drive and Storage",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767963509919-p1ufxr6q2",
+  "startedAt": "2026-01-09T12:58:33.562Z",
+  "updatedAt": "2026-01-09T13:00:28.007Z",
+  "justFinishedAt": "2026-01-09T13:00:28.007Z"
+}

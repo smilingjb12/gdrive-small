@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Remove Recent and Starred items from the sidebar",
+  "title": "Remove recent and starred items from sidebar",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767964780332-hz0j38ybo",
+  "startedAt": "2026-01-09T13:19:41.008Z",
+  "updatedAt": "2026-01-09T13:22:16.041Z",
+  "justFinishedAt": "2026-01-09T13:22:16.041Z"
+}

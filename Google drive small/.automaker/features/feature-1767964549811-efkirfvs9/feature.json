@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When downloading a file, the user should stay on the same route and should not get redirected",
+  "title": "Fix file download without redirect",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767964549811-efkirfvs9",
+  "startedAt": "2026-01-09T13:15:50.519Z",
+  "updatedAt": "2026-01-09T13:20:17.425Z",
+  "justFinishedAt": "2026-01-09T13:20:17.425Z"
+}

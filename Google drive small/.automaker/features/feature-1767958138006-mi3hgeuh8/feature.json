@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When downloading a file make sure the user is not navigated away from the app",
+  "title": "Prevent navigation during file download",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767958138006-mi3hgeuh8",
+  "startedAt": "2026-01-09T11:28:58.833Z",
+  "updatedAt": "2026-01-09T11:31:59.235Z",
+  "justFinishedAt": "2026-01-09T11:31:59.235Z"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Show a confirmation dialog on file/folder delete action",
+  "title": "Add file delete confirmation dialog",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767962236254-3w1s0vqvy",
+  "startedAt": "2026-01-09T12:37:21.796Z",
+  "updatedAt": "2026-01-09T12:43:39.275Z",
+  "justFinishedAt": "2026-01-09T12:43:39.275Z"
+}

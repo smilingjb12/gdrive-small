@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Same as with download button that is visible when hovering a file, add a delete button the the folder to soft-delete the folder along with all of its children items. Do not implement the trash/soft-delete view of the files yet.",
+  "title": "Add delete button to folders with soft-delete",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767958206322-mqbro7z8c",
+  "startedAt": "2026-01-09T11:30:07.087Z",
+  "updatedAt": "2026-01-09T11:33:24.984Z",
+  "justFinishedAt": "2026-01-09T11:33:24.984Z"
+}

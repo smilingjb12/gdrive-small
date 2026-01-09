@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When you navigate from root folder to any other folder the styling of the header with breadcrums becomes inconsistent with the styling of the header on root folder. Make them consistent (root header styling should be applied to any other folder navigated view).",
+  "title": "Fix header styling inconsistency across folder navigation",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767962731190-nvbjksc7p",
+  "startedAt": "2026-01-09T12:45:35.916Z",
+  "updatedAt": "2026-01-09T12:47:06.653Z",
+  "justFinishedAt": "2026-01-09T12:47:06.653Z"
+}

@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "'My drive' nav item should stay highlighted when you're navigating between the folders. Right now it's only highlighted when you're at the root folder, but as soon as you navigate to any other folder, it loses the highlight.",
+  "title": "Fix 'My Drive' nav highlight persistence",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 1,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "completed",
+  "id": "feature-1767957253452-j2aslfmqt",
+  "startedAt": "2026-01-09T11:14:14.728Z",
+  "updatedAt": "2026-01-09T11:16:21.050Z",
+  "justFinishedAt": "2026-01-09T11:16:21.050Z"
+}

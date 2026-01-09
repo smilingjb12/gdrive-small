@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "When typing text in the search bar in the header, the search bar visually increases in height which causes layout shift. Fix",
+  "title": "Fix search bar height jump on input",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961535626-gl3jedpop",
+  "startedAt": "2026-01-09T12:25:35.731Z",
+  "updatedAt": "2026-01-09T12:27:25.560Z",
+  "justFinishedAt": "2026-01-09T12:27:25.560Z"
+}

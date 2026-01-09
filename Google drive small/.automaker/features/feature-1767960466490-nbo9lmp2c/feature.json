@@ -1,0 +1,21 @@
+{
+  "category": "Uncategorized",
+  "description": "Add a basic text trim-lowercase search for the search bar in the header. It should return all the matching folders and files. It should be visually distinct from regular 'My drive' files and folders so user understands he is in the search view right now instead of my drive explore kind of view.",
+  "title": "Add search bar with trim-lowercase file matching display",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": false,
+  "model": "opus",
+  "thinkingLevel": "high",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767960466490-nbo9lmp2c",
+  "startedAt": "2026-01-09T12:07:48.161Z",
+  "updatedAt": "2026-01-09T12:24:48.227Z"
+}

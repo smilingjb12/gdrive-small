@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Make the items in My drive be displayed with a white background so they don't blend into the background that has the same color",
+  "title": "Add white background to My drive items",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767963111712-9swhwro72",
+  "startedAt": "2026-01-09T12:51:56.477Z",
+  "updatedAt": "2026-01-09T12:54:07.143Z",
+  "justFinishedAt": "2026-01-09T12:54:07.143Z"
+}

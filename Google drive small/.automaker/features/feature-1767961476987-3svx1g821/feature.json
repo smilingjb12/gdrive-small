@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "Remove  the file size display from the item",
+  "title": "Remove file size display from item",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767961476987-3svx1g821",
+  "startedAt": "2026-01-09T12:24:37.097Z",
+  "updatedAt": "2026-01-09T12:26:55.904Z",
+  "justFinishedAt": "2026-01-09T12:26:55.904Z"
+}

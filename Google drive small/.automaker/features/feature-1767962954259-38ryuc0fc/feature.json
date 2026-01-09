@@ -1,0 +1,22 @@
+{
+  "category": "Uncategorized",
+  "description": "In grid view make the file type badge be displayed in bottom right corner instead",
+  "title": "Update file type badge position to bottom right in grid view",
+  "images": [],
+  "imagePaths": [],
+  "textFilePaths": [],
+  "skipTests": true,
+  "model": "opus",
+  "thinkingLevel": "none",
+  "branchName": "master",
+  "priority": 2,
+  "planningMode": "skip",
+  "requirePlanApproval": false,
+  "dependencies": [],
+  "titleGenerating": false,
+  "status": "verified",
+  "id": "feature-1767962954259-38ryuc0fc",
+  "startedAt": "2026-01-09T12:49:16.771Z",
+  "updatedAt": "2026-01-09T12:51:13.637Z",
+  "justFinishedAt": "2026-01-09T12:51:13.637Z"
+}
