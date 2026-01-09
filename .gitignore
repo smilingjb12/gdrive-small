@@ -14,3 +14,16 @@ todos.json
 
 # Auto Claude data directory
 .auto-claude/
+
+# Claude Code settings
+.claude_settings.json
+
+# Git worktrees
+.worktrees/
+
+# Playwright test output
+playwright-report/
+test-results/
+
+# Windows artifacts
+nul
